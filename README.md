@@ -47,3 +47,17 @@ Help Adam gain confidence in further development by automatically testing the mo
 - Please submit a link to your finished repository when you are ready
 
 ## Good luck and happy coding! :)
+
+
+#How to Run Test added to the file in the Test Folder
+
+To create these tests, I used Selenium with Python.
+These tests were added to the project in the Tests folder.
+To run these tests, when opening this project in Visual Studio:
+
+1. In my case, maybe it is yours, when opening the project I had to open a new terminal and selecting GitBatch I wrote the instruction $npm i, to install all the packages (In case you already have this in your project , skip this step)
+
+2. The next step would be in the same terminal to write $npm start to run the project
+
+3. Having this, you can now select the tests from the folder and run each of them manually, selecting play from the upper right.
+
